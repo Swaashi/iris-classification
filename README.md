@@ -5,7 +5,7 @@
 **Dataset:** Iris dataset (Kaggle / UCI). 150 samples, 4 features.
 
 **Models tried:** Logistic Regression, K-Nearest Neighbors (K=5), Support Vector Machine (linear).  
-**Best result:** All three models achieved 100% accuracy on the test split (80/20) for this run.
+**Best result:** All three models achieved decent accuracy on the test split (80/20) for this run.
 
 **How to run (local / Colab):**
 1. Clone the repo and place `svm_iris_model.pkl` and `labelencoder_iris.pkl` in the project folder.
